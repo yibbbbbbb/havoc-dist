@@ -10,7 +10,7 @@
 ## About
 
 Havoc is a desktop panel that connects to your headset and injects a runtime
-agent into Gorilla Tag — giving you a full mod menu with a glassmorphism UI,
+agent into Gorilla Tag giving you a full mod menu with a glassmorphism UI,
 theme engine, and an integrated auto-updater.
 
 ## Features
@@ -28,7 +28,7 @@ theme engine, and an integrated auto-updater.
 
 Head to the [**Releases**](../../releases) page and grab the latest `Havoc.exe`.
 
-> Windows may show a SmartScreen warning on first run —
+> Windows may show a SmartScreen warning on first run
 > click **More info → Run anyway**.
 
 ## Setup
