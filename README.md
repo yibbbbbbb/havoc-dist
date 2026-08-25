@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="havoc_logo.png" width="160" alt="Havoc">
+  <img src="havoc.ico" width="160" alt="Havoc">
 </p>
 
 <h1 align="center">HAVOC PANEL</h1>
