@@ -18,8 +18,8 @@ theme engine, and an integrated auto-updater.
 - **Glass UI** — frosted panels, aurora header, animated toggles & sliders
 - **6 themes** + a fully custom color mode
 - **Movement** — pull mod, speed boost, high gravity, local scale
-- **Combat** — tag aura, hand snap, PSA
-- **Players** — game mods, detection tools, lobby scan (ping / move speed)
+- **Tag** — tag aura, flick tag
+- **Players** — FPS CHECKER (NW), DUMP ALL CLASSES, FIND GAME INFO
 - **Visuals** — tracers, box ESP, name tags
 - **Presets** — save & load your whole setup locally
 - **Auto-updater** — one-click updates with changelogs built in
