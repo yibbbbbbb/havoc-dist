@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">HAVOC PANEL</h1>
-<p align="center"><b>A mod panel for Gorilla Tag — glass UI, live game mods, ESP & more.</b></p>
+<p align="center"><b>A A cheat panel specifcally made for gorilla tag, and fangames.</b></p>
 
 ---
 
